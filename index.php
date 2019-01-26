@@ -2,7 +2,7 @@
 session_start();
 $rootPath = '';
 $page = "homepage";
-$meta_title="Miami Coding Bootcamp - Programs, Training, Classes Near Me";
+$meta_title="Proqramlaşdırma, Dizayn, Sistem Administratorluğu, Frontend, Backend, PHP, CSS, JAVA , ORACLE kursu";
 $meta_key="";
 $meta_desc="TechLaunch Code School Offers Coding Bootcamp Programs, Training And Classes For Students To Crack The Code To Their Future. Learn More On How To Earn Degrees Here.";
 include('parts/head.php'); ?>
@@ -21,7 +21,7 @@ include('parts/head.php'); ?>
             <a href="<?= $rootPath ?>">
                 <img src="<?= $rootPath ?>images/logos/techlaunch_at_fvi_vertical_dark_bg.png" alt="Techlaunch at Florida Vocational Institute logo" class="logo">
             </a>
-            <h2 class="page-title">Ready to Launch a Career in Technology?</h2>
+            <h2 class="page-title">Texnologiya dünyasında uğurlu karyera qurmağa hazırsan?</h2>
             <p class="page-subtitle">TechLaunch offers immersive programs and courses that prepare you today, for the recession proof tech careers of tomorrow.</p>
             <div class="buttons-box">
                 <a class="btn browse-programs" href="<?= $rootPath ?>programs/">Browse Programs</a>
